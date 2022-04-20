@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Neelesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/neelesh-sinha-99950218b/)
+[![Linkedin Badge](https://img.shields.io/badge/-NeeleshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/neelesh-sinha-99950218b/)
 
 I'm
 Full Stack Solution Architect
